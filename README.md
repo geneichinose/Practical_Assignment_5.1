@@ -1,10 +1,15 @@
 # Practical_Assignment_5.1
 Practical Application Assignment 5.1: Will the Customer Accept the Coupon? Start Assignment
 
+https://github.com/geneichinose/Practical_Assignment_5.1
+
 Files included:
-  Python notebook geneichinose_assignment_5_1_2.ipynb
-  data/coupons.csv
-  README.md
+  
+  	1. Python notebook geneichinose_assignment_5_1_2.ipynb
+  
+  	2. data/coupons.csv
+  
+  	3. README.md
   
 Summary of findings (Prompt questions 1-7)
 
