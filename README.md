@@ -31,7 +31,9 @@ Based on these observations, I hypothesize that drivers who accepted the bar cou
 
 Independent Investigation
 
-Drivers accepted coffee house coupons in the morning 10AM and also in the afternoon 2PM. Drivers also accepted restaurant coupons for < $20 at 2PM and 6PM Drivers accepted mostly carry out for 7AM and 10PM early and late times.
+Drivers accepted coffee house coupons in the morning at 10AM and also in the afternoon at 2PM. 
+Drivers also accepted restaurant coupons for < $20 at 2PM and 6PM.
+Drivers accepted mostly carry out at 7AM and 10PM which were the earliest and latest times.
 
 More number of drivers accepted coupons were the carry out and restaurant coupons for < $20 while the acceptance rates were similar to rejected rates for other coupons.
 See interesting comparison between income and coupon acceptance, low to middle income earners more likely to accept coupons
